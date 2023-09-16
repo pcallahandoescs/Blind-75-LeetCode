@@ -6,4 +6,8 @@ class Solution:
                 return True
             else:
                 memory[num] = True
+                
         return False
+
+
+
