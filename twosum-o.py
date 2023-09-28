@@ -8,5 +8,8 @@ class Solution:
             if diff in pMap:
                 return [pMap[diff], i]
             pMap[n] = i
+
         return
-        
+
+
+
